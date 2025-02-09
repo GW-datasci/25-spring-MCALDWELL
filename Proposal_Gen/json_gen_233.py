@@ -94,7 +94,7 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Possible Issues":
             """
-            The challenge is on data analysis part , find a good features and train a decent model.
+            Due to the large amounts of data, there may be challenges trying to link different data sources to each other.  Some work arounds may include using informal IDs like the names of counties, and then from there a formal numbered ID system will be implemented.  GIS tools also can be difficult to work with, so there exists a number of potentially unforeseen challenges originating from the rigidity of GIS tools, and potential limitations with their tools.  GWU has many licenses for advanced GIS tools, so there will likely be alternative methods to solve these problems, but it will take time to implement them.
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Proposed by": "Matthew Caldwell",
